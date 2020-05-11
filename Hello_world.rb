@@ -1,4 +1,4 @@
-ruby Hello_world.rb
+ Hello_world.rb
 
 Puts " Hello World ! " 
-Learn " tests"
+Learn  "tests"
